@@ -2,7 +2,7 @@
 
 A small Python script that puts photos on a white canvas so Instagram shows them **in full, uncropped**.
 
-Instagram can't show a 2:3 vertical photo (like those from a Leica Q3) in full: it crops it to its tallest allowed shape and part of the frame is lost. This tool scales each photo to fit a 1080 px wide canvas and fills the rest with white, giving the clean, gallery-like feed made popular by photographers such as Alan Schaller.
+Instagram can't show a 2:3 vertical photo (like those from a Leica Q3) in full: it crops it to its tallest allowed shape and part of the frame is lost. This tool scales each photo to fit a 1080 px wide canvas and fills the rest with white, giving the clean, gallery-like feed made popular by photographers.
 
 By default the photo touches the canvas edges on its long side: a vertical photo gets white only on the left and right, a horizontal one only above and below.
 
